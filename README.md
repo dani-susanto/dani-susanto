@@ -14,14 +14,9 @@ projects and new work at:
 
 ## Repositories from this account
 
-| Repository | New location |
-| --- | --- |
-| go-account-service | https://github.com/danisusanto/go-account-service |
-| go-common | https://github.com/danisusanto/go-common |
-
-Repositories here are kept so older CV and portfolio links still resolve. They
-are no longer actively maintained; the current versions live under the new
-account.
+The repositories previously hosted here have been deleted and moved to the new
+account. Please update any older CV or portfolio links to point to the new
+locations above.
 
 If you are looking for something that was previously hosted here, browse the
 full list at https://github.com/danisusanto?tab=repositories
