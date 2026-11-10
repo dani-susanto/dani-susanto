@@ -1,16 +1,27 @@
-## Hi there 👋
+# Moved to @danisusanto
 
-<!--
-**dani-susanto/dani-susanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This account is no longer my main GitHub profile. I now publish my active
+projects and new work at:
 
-Here are some ideas to get you started:
+**➡️ https://github.com/danisusanto**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Where to find me
+
+- GitHub: https://github.com/danisusanto
+- Portfolio: https://portfolio.dnsprogress.com
+- LinkedIn: https://www.linkedin.com/in/dani-susanto-406152111
+- Email: itsdanisusanto@gmail.com
+
+## Repositories from this account
+
+| Repository | New location |
+| --- | --- |
+| go-account-service | https://github.com/danisusanto/go-account-service |
+| go-common | https://github.com/danisusanto/go-common |
+
+Repositories here are kept so older CV and portfolio links still resolve. They
+are no longer actively maintained; the current versions live under the new
+account.
+
+If you are looking for something that was previously hosted here, browse the
+full list at https://github.com/danisusanto?tab=repositories
