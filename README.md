@@ -8,7 +8,7 @@ projects and new work at:
 ## Where to find me
 
 - GitHub: https://github.com/danisusanto
-- Portfolio: https://portfolio.dnsprogress.com
+- Portfolio: https://danisusanto.my.id
 - LinkedIn: https://www.linkedin.com/in/dani-susanto-406152111
 - Email: itsdanisusanto@gmail.com
 
